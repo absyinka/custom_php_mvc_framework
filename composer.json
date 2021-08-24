@@ -1,0 +1,15 @@
+{
+    "name": "joda/softblog",
+    "authors": [
+        {
+            "name": "absyinka",
+            "email": "absyinka@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
