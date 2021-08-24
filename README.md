@@ -1,2 +1,2 @@
-# softblog
-A demo project on blog application
+# Soft Framework
+A minimal custom PHP Framework
